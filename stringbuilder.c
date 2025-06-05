@@ -1,6 +1,6 @@
 #include <string.h>
 #include "stringbuilder.h"
-
+// rjvvkljalsd
 static inline size_t align_size(size_t num)
 {
   return (num + 1023) / 1024 * 1024;
